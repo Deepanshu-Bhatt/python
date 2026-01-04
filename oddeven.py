@@ -1,2 +1,2 @@
 num=int(input("enter a num:"))
-print("Odd" if num & 1 else "even")
+print("Odd" if num & 1 else "Even")
